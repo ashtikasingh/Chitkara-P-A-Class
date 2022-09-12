@@ -1,0 +1,21 @@
+STACK/LIFO
+last in first out
+function call 
+infix to postfix 
+expression call
+1)push()
+2)pop()
+3)tos/top/peek
+4)display() not a in bulit 
+5)exit()
+
+any other position then wrong option 
+if array is full stack is overflow
+display array if empty then stack is underflow 
+
+but for linked list only underflow is applicable 
+
+insertation in the linked list will be insertion in the begin() -> push
+display bhi same ->diplay
+delete _begin() -> pop
+head->node display() -> top
